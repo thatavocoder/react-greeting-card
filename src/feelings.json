@@ -1,0 +1,76 @@
+{
+    "feelingsData": [
+        {
+            "id": 1,
+            "feeling": "Happy",
+            "emoticon": "em em-smiley",
+            "text": "Feeling Happy",
+            "yturl": [
+                {
+                    "url": "wAgZVLk6J4M"
+                },
+                {
+                    "url": "iWZmdoY1aTE"
+                }
+            ],
+            "message": [
+                {
+                    "msg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper turpis sit amet diam sagittis blandit. Donec velit ex, ullamcorper sit amet tristique ut, luctus quis ligula. Cras mollis purus sit amet ante tempor hendrerit. Phasellus libero erat, accumsan eget mauris a, elementum aliquet arcu. Nulla malesuada tortor vitae lectus aliquam, id hendrerit justo ullamcorper. Maecenas mattis molestie tempus.",
+                    "by": "Friend1"
+                },
+                {
+                    "msg": "Maecenas ultricies, sem sit amet vehicula pulvinar, mauris mauris dapibus justo, eu sollicitudin ligula risus posuere ipsum. Integer rutrum iaculis ligula, ac vestibulum magna pellentesque at. Duis purus ligula, posuere ut iaculis a, rutrum eu turpis. Fusce convallis eget velit in elementum.",
+                    "by": "Friend2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "feeling": "Sad",
+            "emoticon": "em em-slightly_frowning_face",
+            "text": "Feeling Sad",
+            "yturl": [
+                {
+                    "url": "iEKLFS-aKcw"
+                }
+            ],
+            "message": [
+                {
+                    "msg": "Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. In pellentesque massa placerat duis ultricies lacus sed turpis. Duis ultricies lacus sed turpis tincidunt. Dui sapien eget mi proin sed libero enim sed.",
+                    "by": "Friend3"
+                },
+                {
+                    "msg":"Nec nam aliquam sem et. Sed pulvinar proin gravida hendrerit lectus a. Massa enim nec dui nunc mattis enim ut. Tortor at auctor urna nunc id cursus. Faucibus purus in massa tempor. Blandit turpis cursus in hac habitasse platea dictumst quisque sagittis.",
+                    "by":"Friend1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "feeling": "Crazy",
+            "emoticon": "em em-zany_face",
+            "text": "Feeling Crazy",
+            "yturl": [
+                {
+                    "url": "FzG4uDgje3M"
+                },
+                {
+                    "url":"w0AOGeqOnFY"
+                },
+                {
+                    "url":"FGgtwEQ-BTk"
+                }
+            ],
+            "message": [
+                {
+                    "msg": "Facilisis leo vel fringilla est ullamcorper. Adipiscing elit duis tristique sollicitudin nibh sit amet. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Turpis massa sed elementum tempus egestas.",
+                    "by": "Friend2"
+                },
+                {
+                    "msg":"Morbi quis commodo odio aenean sed adipiscing diam donec. Pharetra pharetra massa massa ultricies mi. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Elit eget gravida cum sociis natoque penatibus et. Cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Senectus et netus et malesuada fames ac turpis egestas sed. Lacus sed turpis tincidunt id aliquet risus feugiat in ante.",
+                    "by":"Friend3"
+                }
+            ]
+        }
+    ]
+}

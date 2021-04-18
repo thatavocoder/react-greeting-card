@@ -1,0 +1,57 @@
+.head{
+    text-align: center;
+    font-size: 6vmin;
+    font-weight: bold;
+    margin-bottom: 5vmin;
+    color: rgb(59, 59, 59);
+    font-family: "Ubuntu";
+}
+
+.sectionhead {
+    height: 10vmin;
+    line-height: 10vmin;
+    background-color: rgba(0, 0, 0, 0.603);
+    border-radius: 1vmin;
+    font-size: 4vmin;
+    font-family: "Ubuntu";
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-bottom: 7vmin;
+    margin-top: 2vmin;
+}
+
+.textmsg{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 0.2vmin solid silver;
+    border-radius: 1vmin;
+    color: rgb(95, 95, 95);
+    font-family: "Rubik";
+    margin-bottom: 5vmin;
+}
+
+.textmsg p {
+    padding: 1vmin;
+}
+
+.videos {
+    margin: 1vmin;
+    margin-bottom: 5vmin;
+    border: 1vmin solid rgba(49, 49, 49, 0.336);
+}
+
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}

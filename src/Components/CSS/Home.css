@@ -1,0 +1,81 @@
+.home-container {
+    text-align: center;
+}
+
+.greeting {
+    font-size: 7.5vmin;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    color: rgb(70, 70, 70);
+    margin: 3vmin;
+}
+
+.cake {
+    height: 50vmin;
+    width: auto;
+}
+
+.wish {
+    font-size: 8vmin;
+    font-family: 'Ubuntu';
+    color: rgb(95, 95, 95);
+    margin-bottom: 13vmin;
+    background-color: rgba(0, 0, 0, 0.603);
+    border-radius: 1vmin;
+    color: rgb(255, 255, 255);
+    padding: 2vmin;
+    width: 90%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.carousel {
+    height: 70vmin !important;
+}
+
+.carousel .carousel-item {
+    width: 70vmin !important;
+    height: 70vmin !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+
+.look {
+    font-size: 6vmin;
+    font-family: 'Ubuntu';
+    color: rgb(70, 70, 70);
+    margin-bottom: 5vmin;
+    margin-top: -20vmin;
+}
+
+.lookbtn {
+    margin: 2vmin;
+    background-image: linear-gradient(45deg,rgb(185, 61, 185),rgb(255, 89, 117));
+    border-radius: 1vmin;
+    height: 7vmin;
+    width: 20vmin;
+    line-height: 7vmin;
+    font-size: 2.3vmin;
+    font-family: "Rubik";
+}
+
+.modal-content, .modal-footer {
+    font-family: "Rubik";
+}
+
+.wpy {
+    font-size: 8vmin;
+    font-family: 'Ubuntu';
+    color: rgb(95, 95, 95);
+    margin-top: 7vmin;
+    margin-bottom: 3vmin;
+    background-color: rgba(0, 0, 0, 0.603);
+    border-radius: 1vmin;
+    color: rgb(255, 255, 255);
+    padding: 2vmin;
+    width: 90%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
